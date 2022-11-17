@@ -1,0 +1,5 @@
+Szigetvári Vivien
+
+Hogy legyen int range, és legyenek összefüggő elemek, ezért a szervereket és a telefonokat egy vlanra tettem. 
+
+néhány ország csak egymást akarja elérni, ezért kialakítottam trunköket
