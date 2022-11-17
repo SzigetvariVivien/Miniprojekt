@@ -1,0 +1,6 @@
+switch 2950t-24:Német:27m
+switch 2960 olasz:5m
+belső  2960 :5m
+m.o 2950-24:2m
+routerek:tsz :4321:1,5m
+	 Isp :4331:2,5m
