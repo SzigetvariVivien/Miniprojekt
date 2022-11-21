@@ -1,0 +1,18 @@
+VLan1: Borgonya 172.18.5.0/27 
+Vlan2:Répa 172.18.5.32 /27
+Vlan3: Gabona 172.18.5.64 /27
+Német Ip címek:
+hálózat: 172.16.5.0/26 255.255.255.192
+VLan1: Borgonya:172.16.5.3
+Vlan2:Répa: 172.16.5.4
+Vlan3: Gabona:172.16.5.5
+Olasz:
+128.0.2.0/27 255.255.255.224
+VLan1: Borgonya: 128.0.2.3
+Vlan2:Répa: 128.0.2.4
+Vlan3: Gabona: 128.0.2.5
+Magyar:
+10.0.5.0./27 255.255.255.224
+VLan1: Borgonya: 10.0.5.3
+Vlan2:Répa: 10.0.5.4
+Vlan3: Gabona: 10.0.5.5
