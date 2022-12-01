@@ -1,6 +1,12 @@
-VLan1: Borgonya 172.18.5.0/27 
+
+VLan1: Borgonya 172.18.5.0/27
 Vlan2:Répa 172.18.5.32 /27
 Vlan3: Gabona 172.18.5.64 /27
+
+
+
+
+Újratervezés ez a régi:
 Német Ip címek:
 hálózat: 172.16.5.0/26 255.255.255.192
 VLan1: Borgonya:172.16.5.3
@@ -16,3 +22,35 @@ Magyar:
 VLan1: Borgonya: 10.0.5.3
 Vlan2:Répa: 10.0.5.4
 Vlan3: Gabona: 10.0.5.5
+Új kiosztás--------------
+Német Ip címek:
+hálózat: 172.16.5.0/26 255.255.255.192
+VLan1: 172.18.5.2
+Vlan2:Répa: 172.18.5.34
+Vlan3: Gabona:172.18.5.66
+Olasz:
+128.0.2.0/27 255.255.255.224
+VLan1: 172.18.5.3
+Vlan2:Répa: 172.18.5.35
+Vlan3: Gabona: 172.18.5.67
+Magyar:
+10.0.5.0./27 255.255.255.224
+VLan1: Borgonya:  172.18.5.4
+Vlan2:Répa:172.18.5.36
+Vlan3: Gabona: 172.18.5.68
+Ip telefonok és helyi szerverek IP címei:
+Szervereknek VLan 5 172.18.5.96 a hálózat
+olasz Szerver 172.18.5.98
+olasz
+német Szerver 72.18.5.100
+
+magyar Szerver72.18.5.102
+
+Központi tsz részleg (szerver részleg) IP címzése:
+192.168.5.0/27
+Backup szerver címe:192.168.5.2
+EMail szerver: 192.168.5.3
+Nyomtató: DHCP
+
+
+
